@@ -1,0 +1,6 @@
+*.3mf 
+*.FCBak
+*.lck
+.stfolder
+config.bat
+node_modules
